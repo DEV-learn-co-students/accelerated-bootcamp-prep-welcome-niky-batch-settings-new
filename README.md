@@ -81,7 +81,7 @@ That's basically the plan. You'll always have access to this curriculum so even 
 
 Learn.co is the educational platform we built at Flatiron School to power all of our classes. It's a bit different than other online learning systems, as you might be able to tell already. Here's the big stuff you need to know right now.
 
-1. We write. A lot. Programming is reading and writing all day and if you're serious about this career you might as well get used to reading about code a ton. We also think that videos are just too easy to not pay attention too when you're watching. Code is all details and syntax and videos make it hard to grasp those. I'll be adding some video lectures to the course but expect to see a lot of READMEs. Read. Read all of it. Seriously, it's how you learn.
+1. We write. A lot. Programming is reading and writing all day and if you're serious about this career you might as well get used to reading about code a ton. We also think that videos are just too easy to not pay attention too when you're watching. Code is all details and syntax and videos make it hard to grasp those. I'll be adding some video lectures to the course but expect to see a lot of READMEs. Read. Read all of it. Seriously, it's how you learn. The "Curriculum" link on the top left will reveal the track and the topics, units, and lessons.
 
 2. We use real tools. There are no REPLs here or contrived programming environments that over-simplify things. You're going to use an IDE (Integrated Development Environment) we built called the [Learn IDE](http://help.learn.co/the-learn-ide). It comes with a terminal that provides you with a programming environment so you don't have to worry about setting up a proper environment.
 
@@ -97,4 +97,4 @@ Finally, really quick, I want to say that our community is very important to us.
 
 ## Closing Thoughts
 
-That's about it - let's get started learning!
+That's about it - let's get started learning! **You can continue to the next lesson by clicking "I'm Done" on the right.**
