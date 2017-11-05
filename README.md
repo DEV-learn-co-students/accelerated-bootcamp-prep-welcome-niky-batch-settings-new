@@ -97,4 +97,4 @@ Finally, really quick, I want to say that our community is very important to us.
 
 ## Closing Thoughts
 
-That's about it - let's get started learning! **You can continue to the next lesson by clicking "I'm Done" on the right.**
+[The slides from Orientation are here.](https://docs.google.com/presentation/d/1vasEqEo12rSgsKBf-LPub9Uf_HQanmEzQxGFI72iPwU/edit?usp=sharing) That's about it - let's get started learning! **You can continue to the next lesson by clicking "I'm Done" on the right.**
